@@ -290,7 +290,7 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHE
 
 This License shall be governed by the laws of the Federal Republic of Germany.
 
-The exclusive place of jurisdiction is Germany, Europe, if legally permissible.
+To the extent legally permissible, the courts of the Federal Republic of Germany shall have exclusive jurisdiction.
 
 ---
 
