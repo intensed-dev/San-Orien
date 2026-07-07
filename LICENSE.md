@@ -71,6 +71,7 @@ The current ecosystem consists of:
 * San Orien Symbols (Icons)
 * San Orien Pro (Font)
 * San Orien App
+* intensed-dev Website (https://intensed-dev.github.io)
 
 and any future projects officially published by **Intensed-dev**.
 
